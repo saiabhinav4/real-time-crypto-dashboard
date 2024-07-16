@@ -17,13 +17,13 @@ This is a Next.js project with MongoDB integration.
 
 ### 3. Set Up Environment Variables
 
-  Create a .env.local file in the root of the project and add your MongoDB credentials. Replace the placeholder values with your actual MongoDB credentials.
-  below is the content of .env.local file
-  MONGODB_USERNAME=yourMongoDBUsername
-  MONGODB_PASSWORD=yourMongoDBPassword
-  MONGODB_CLUSTER_NAME=yourClusterName
-  MONGODB_CLUSTER_IDENTIFIER=yourClusterIdentifier
-  MONGODB_DBNAME=yourDatabaseName
+  Create a .env.local file in the root of the project and add your MongoDB credentials. Replace the placeholder values with your actual MongoDB credentials. <br>
+  below is the content of .env.local file <br>
+  MONGODB_USERNAME=yourMongoDBUsername <br>
+  MONGODB_PASSWORD=yourMongoDBPassword <br>
+  MONGODB_CLUSTER_NAME=yourClusterName <br>
+  MONGODB_CLUSTER_IDENTIFIER=yourClusterIdentifier <br>
+  MONGODB_DBNAME=yourDatabaseName <br>
 
 ### 4. Start the Development Server
 
